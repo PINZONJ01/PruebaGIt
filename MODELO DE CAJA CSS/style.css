@@ -1,0 +1,19 @@
+.bodi{
+    height: 100vw;
+    width: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+div {
+    width: 80%;
+    border: 15px solid green;
+    outline: #000 groove 5px;
+    outline-color: aqua;
+    outline-offset: 20px;
+    padding: 50px;
+    margin: 20px;
+  }

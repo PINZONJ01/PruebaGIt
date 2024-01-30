@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 2px;
+    padding: 4px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(210, 210, 210);
+}
+.primarios {
+    display: flex;
+    justify-content: center;   
+}
+.secundarios{
+    display: flex;
+    justify-content: center;
+}
+.terciarios{
+    display: flex;
+    justify-content: center;
+}
+.color {
+    width: 200px;
+    height: 100px;
+    margin: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+.primario1 {
+    background-color: #ffff00;
+}
+.primario2 {
+    background-color: #ff0000;
+}
+.primario3 {
+    background-color: #0000ff; 
+}
+.secundario1{
+    background-color: #ff7f00; 
+}
+.secundario2 {
+    background-color: #CC00FF ; 
+}
+.secundario3 {
+    background-color: #33FF00 ; 
+}
+.terciario1 {
+    background-color: #ffb200 ; 
+}
+.terciario2{
+    background-color: #e57f7f ;
+}
+.terciario3{
+    background-color: #99ff00 ;
+}
+.terciario4{
+    background-color: #ff3f00 ;
+}
+.terciario5{
+    background-color: #e5007f ;
+}
+.terciario6{
+    background-color: #997f00 ;
+}
+.terciario7{
+    background-color: #7f3f7f ;
+}
+.terciario8{
+    background-color: #6600ff ;
+}
+.terciario9{
+    background-color: #197f7f;
+}
